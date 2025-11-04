@@ -1,2 +1,2 @@
-# dio-trilha-jaba-b-sico
+# dio-trilha-java-basico
 Repositório para exercício
